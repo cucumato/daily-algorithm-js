@@ -1,0 +1,23 @@
+{
+  "name": "daily-algorithm-js",
+  "version": "1.0.0",
+  "description": "Daily Algorithm in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucumato/daily-algorithm-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cucumato/daily-algorithm-js/issues"
+  },
+  "homepage": "https://github.com/cucumato/daily-algorithm-js#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
